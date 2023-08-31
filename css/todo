@@ -1,0 +1,26 @@
+
+TODO :
+Create better documentation
+Copyright_link to add at last
+Compressed images to be added
+
+
+
+
+Documentation on this template
+
+
+1)Edit the css from _all.scss and for making it responsive use it from _responsive.scss . Use live sass compiler.
+
+2)MEDIA QUERIEs : 1200 , 980 , 860 , 768 , 640 , 480, 360 , 320
+3)The text limit is given in some places , be sure to read and do neccerserily . 
+4)For optimised website view for clients , use same sized images by certain tools for resizing.
+5) Education/Skill/Experience are given in three sections with a displaying button based on what user clicks . 
+6) Use AI tools for consistent word count in each section.
+
+The only possible issue to arise is in testimonial section
+
+
+TIPS:
+1)Use bracket pair colorizer in vs code
+2)Indent-rainbow in VS code
